@@ -410,6 +410,12 @@
   <project path="vendor/kylin" name="KyLinOS/android_vendor_kylin" />
   <project path="device/generic/goldfish" name="KyLinOS/android_device_generic_goldfish" /> 
 
+  <!-- Motorola -->
+   <project name="KyLinOS/android_device_motorola_msm8960-common" path="device/motorola/msm8960-common" remote="kylin" revision="cm-10.1" />
+  <project name="KyLinOS/android_device_motorola_mb886" path="device/motorola/mb886" remote="kylin" revision="cm-10.1" />
+  <project name="KyLinOS/android_vendor_motorola_msm8960-common" path="vendor/motorola/msm8960-common" remote="kylin" revision="cm-10.1" />
+  <project name="KyLinOS/android_vendor_motorola_mb886" path="vendor/motorola/mb886" remote="kylin" revision="jb-mr1" />
+  <project name="KyLinOS/android_kernel_motorola_msm8960-common" path="kernel/motorola/msm8960-common" remote="kylin" revision="refs/tags/cm-10.1.3-RC2" />
   <!-- Devices Paired End -->
 
 </manifest>
