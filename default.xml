@@ -378,7 +378,6 @@
   <project path="packages/apps/Mms" name="KyLinOS/android_packages_apps_Mms" />
   <project path="packages/apps/Halo" name="KyLinOS/android_packages_apps_Halo" />
   <project path="packages/apps/KylinLauncher" name="KyLinOS/android_packages_apps_KylinLauncher" />
-  <project path="packages/apps/Notepad" name="KyLinOS/android_packages_apps_Notepad" />
   <project path="packages/apps/PackageInstaller" name="KyLinOS/android_packages_apps_PackageInstaller" />
   <project path="packages/apps/PermissionManager" name="KyLinOS/android_packages_apps_PermissionManager" />
   <project path="packages/apps/Phone" name="KyLinOS/android_packages_apps_Phone" />
