@@ -45,6 +45,28 @@ Then to sync up:
 
     repo sync
 
+
+Start build
+----------
+First, go to the root path of your project. We assume that your source is under 
+(/kylin):
+
+    cd /kylin
+    
+then
+   . build/envsetup.sh
+
+Next
+   lunch
+Choose your model number that corresponds to the digital input into the command window
+
+Next
+   make bacon -j8
+   
+Finally, the wait for the completion and enjoy your new system
+
+
+
 Start Work
 ----------
 
